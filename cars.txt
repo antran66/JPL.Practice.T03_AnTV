@@ -1,0 +1,3 @@
+12D-12345,New City,2016,Honda,Silver
+23-23456,Nissan Left,2019,Nissan,White
+34-34567,Kia Soul EV,2019,Kia,Blue
